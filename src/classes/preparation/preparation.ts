@@ -251,7 +251,7 @@ export class Preparation implements IPreparation {
       case PREPARATION_TYPES.RATIO_SIX_COFFEE_BREWER:
         return 'beanconqueror-preparation-ratio-six-coffee-brewer';
       case PREPARATION_TYPES.SAGE_BREVILLE_PRECISION_BREWER:
-        return 'beanconqueror-preparation-ratio-six-coffee-brewer';
+        return 'beanconqueror-preparation-sage-breville-precision-brewer';
       case PREPARATION_TYPES.ROK:
         return 'beanconqueror-preparation-rok';
       case PREPARATION_TYPES.TORNADO_DUO:
