@@ -929,6 +929,7 @@
     "PREPARATION_TYPE_ROK": "ROK Demleyici",
     "PREPARATION_TYPE_TORNADO_DUO": "Tornado Duo Demleyici",
     "PREPARATION_TYPE_TRICOLATE": "Tricolate Demleyici",
+    "PREPARATION_TYPE_SAGE_PRECISION_BREWER": "Sage/Breville Precision Brewer",
     "QR_CODE_REFRESH_DATA_MESSAGE": "Çekirdeğin tüm bilgilerinin üzerine yazılacak, şimdi başlasın mı?",
     "POPOVER_QR_CODE_REFRESH": "Verileri yeniden yükle",
     "BREW_FLOW_WEIGHT_REALTIME": "Akış (Gerçek Zamanlı)",

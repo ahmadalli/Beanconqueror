@@ -929,6 +929,7 @@
     "PREPARATION_TYPE_ROK": "ROK",
     "PREPARATION_TYPE_TORNADO_DUO": "Tornado Duo",
     "PREPARATION_TYPE_TRICOLATE": "Tricolate",
+    "PREPARATION_TYPE_SAGE_PRECISION_BREWER": "Sage/Breville Precision Brewer",
     "QR_CODE_REFRESH_DATA_MESSAGE": "Wszystkie informacje dotyczące tego ziarna zostaną nadpisane. Kontynuować?",
     "POPOVER_QR_CODE_REFRESH": "Załaduj ponownie dane",
     "BREW_FLOW_WEIGHT_REALTIME": "Przepływ (w czasie rzeczywistym)",

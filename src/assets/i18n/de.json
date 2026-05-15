@@ -999,6 +999,7 @@
     "PREPARATION_TYPE_ROK": "ROK",
     "PREPARATION_TYPE_TORNADO_DUO": "Tornado Duo",
     "PREPARATION_TYPE_TRICOLATE": "Tricolate",
+    "PREPARATION_TYPE_SAGE_PRECISION_BREWER": "Sage/Breville Precision Brewer",
     "QR_CODE_REFRESH_DATA_MESSAGE": "Alle Informationen der Bohne werden überschritten, jetzt fortfahren?",
     "POPOVER_QR_CODE_REFRESH": "Daten neu laden",
     "BREW_FLOW_WEIGHT_REALTIME": "Fluss (Echtzeit)",

@@ -929,6 +929,7 @@
     "PREPARATION_TYPE_ROK": "ROK 手压咖啡机",
     "PREPARATION_TYPE_TORNADO_DUO": "Tornado Duo",
     "PREPARATION_TYPE_TRICOLATE": "Tricolate 聪明杯",
+    "PREPARATION_TYPE_SAGE_PRECISION_BREWER": "Sage/Breville Precision Brewer",
     "QR_CODE_REFRESH_DATA_MESSAGE": "咖啡豆的所有信息将会被修改，现在开始？",
     "POPOVER_QR_CODE_REFRESH": "重载数据",
     "BREW_FLOW_WEIGHT_REALTIME": "Flow (真实时间)",

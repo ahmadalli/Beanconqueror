@@ -929,6 +929,7 @@
     "PREPARATION_TYPE_ROK": "ROK",
     "PREPARATION_TYPE_TORNADO_DUO": "Tornado Duo",
     "PREPARATION_TYPE_TRICOLATE": "Tricolate",
+    "PREPARATION_TYPE_SAGE_PRECISION_BREWER": "Sage/Breville Precision Brewer",
     "QR_CODE_REFRESH_DATA_MESSAGE": "Toda la información del café se sobrescribirá, ¿empezar ahora?",
     "POPOVER_QR_CODE_REFRESH": "Recargar datos",
     "BREW_FLOW_WEIGHT_REALTIME": "Flujo (tiempo real)",
