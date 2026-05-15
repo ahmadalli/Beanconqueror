@@ -156,6 +156,8 @@ export class Preparation implements IPreparation {
         return PREPARATION_STYLE_TYPE.POUR_OVER;
       case PREPARATION_TYPES.RATIO_SIX_COFFEE_BREWER:
         return PREPARATION_STYLE_TYPE.PERCOLATION;
+      case PREPARATION_TYPES.SAGE_BREVILLE_PRECISION_BREWER:
+        return PREPARATION_STYLE_TYPE.PERCOLATION;
       case PREPARATION_TYPES.ROK:
         return PREPARATION_STYLE_TYPE.ESPRESSO;
       case PREPARATION_TYPES.TORNADO_DUO:
@@ -247,6 +249,8 @@ export class Preparation implements IPreparation {
       case PREPARATION_TYPES.HARIO_WOODNECK:
         return 'beanconqueror-preparation-hario-woodneck';
       case PREPARATION_TYPES.RATIO_SIX_COFFEE_BREWER:
+        return 'beanconqueror-preparation-ratio-six-coffee-brewer';
+      case PREPARATION_TYPES.SAGE_BREVILLE_PRECISION_BREWER:
         return 'beanconqueror-preparation-ratio-six-coffee-brewer';
       case PREPARATION_TYPES.ROK:
         return 'beanconqueror-preparation-rok';
