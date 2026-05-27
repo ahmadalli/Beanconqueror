@@ -391,6 +391,10 @@ export const beanconquerorIcons = [
     path: 'beanconqueror-preparation-rok.svg',
   },
   {
+    name: 'beanconqueror-preparation-sage-breville-precision-brewer',
+    path: 'beanconqueror-preparation-sage-breville-precision-brewer.svg',
+  },
+  {
     name: 'beanconqueror-preparation-sanremo-you',
     path: 'beanconqueror-preparation-sanremo-you.svg',
   },
